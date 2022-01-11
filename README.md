@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jlpascu.
 - 👀 I’m interested in stock market.
-- 🌱 I've been learning to code in python and R lenguage since 2020.
-- 💞️ I’m looking to collaborate on algorithm that trade on fundamental analysis. 
-- 📫 How to reach me on my linkedln profile www.linkedin.com/in/jlpascual
+- 🌱 I've been learning to code in python and R language since 2020.
+- 💞️ I’m looking to collaborate on coding algorithms that trade on fundamental analysis. 
+- 📫 How to reach me on my LinkedIn profile www.linkedin.com/in/jlpascual
 
 <!---
 jlpascu/jlpascu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
